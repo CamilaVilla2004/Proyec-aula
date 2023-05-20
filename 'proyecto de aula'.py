@@ -3,9 +3,9 @@ print('PRMAPC: PLATAFORMA DE REPORTES PARA LA MEJORA DEL ALUMBRADO PÚBLICO DE L
 print('--------------------------------------------------------------------')
 # DATOS PREDETERMINADOS
 correo = 'valt@correo.com'
-contrasena = 1234
-
-#menu
+contraseña  =  1234
+camiiiiii
+#menú
 while True:
     print("Menú:")
     print("1. Inicio de sesión")
